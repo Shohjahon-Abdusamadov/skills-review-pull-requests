@@ -23,6 +23,11 @@ _Collaborate and work together on GitHub._
 
 _Nicely done suggesting changes! :partying_face:_
 
+### ✅ Final Course Repository URL
+
+[https://github.com/Shohjahon-Abdusamadov/skills-review-pull-requests](https://github.com/Shohjahon-Abdusamadov/skills-review-pull-requests)
+
+
 Now let's see how easy it is to [apply your suggestion](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/incorporating-feedback-in-your-pull-request).
 
 ### :keyboard: Activity: Apply suggested changes
